@@ -1,0 +1,501 @@
+Date,Product,Category,Unit Price,Quantity,Total Sales,Customer Age,City,Discount
+2025-01-11,Self-help Book,Books,204.63,4,719.64,27,Los Angeles,0.12
+2024-11-15,Jacket,Clothing,158.4,1,151.03,36,Los Angeles,0.05
+2024-06-01,Smartwatch,Electronics,377.78,1,269.01,37,Miami,0.29
+2025-02-02,Yoga Mat,Sports,278.63,6,1621.68,40,Chicago,0.03
+2024-12-17,Microwave,Home & Kitchen,389.96,2,728.8,30,Chicago,0.07
+2025-03-13,Hat,Clothing,293.98,1,231.83,64,Chicago,0.21
+2024-04-15,Science Book,Books,433.62,2,738.04,18,Los Angeles,0.15
+2025-01-03,Vacuum Cleaner,Home & Kitchen,68.62,9,612.36,21,Miami,0.01
+2024-11-28,Smartphone,Electronics,13.34,5,53.85,22,New York,0.19
+2024-11-24,Basketball,Sports,245.58,9,1615.23,46,New York,0.27
+2024-08-17,Football,Sports,29.36,4,88.4,60,Miami,0.25
+2024-10-10,Science Book,Books,166.58,4,651.88,19,Los Angeles,0.02
+2024-08-28,Coffee Maker,Home & Kitchen,394.01,6,2066.1,24,Los Angeles,0.13
+2024-10-29,Running Shoes,Sports,405.74,7,2352.0,52,Los Angeles,0.17
+2024-07-16,Science Book,Books,397.67,1,311.53,51,Los Angeles,0.22
+2024-12-10,Hat,Clothing,13.87,3,35.64,57,Houston,0.14
+2024-10-03,Tennis Racket,Sports,146.37,8,831.68,33,Miami,0.29
+2024-12-03,Laptop,Electronics,124.02,2,211.08,62,New York,0.15
+2024-09-29,Science Book,Books,493.74,9,3777.3,50,Chicago,0.15
+2024-08-12,Comics,Books,309.46,8,2159.36,25,Miami,0.13
+2024-07-03,Sneakers,Clothing,336.59,1,313.89,55,Chicago,0.07
+2024-09-07,Yoga Mat,Sports,371.96,7,2286.9,64,Chicago,0.12
+2024-10-13,Laptop,Electronics,107.7,9,839.79,56,Houston,0.13
+2025-03-15,Toaster,Home & Kitchen,97.31,7,494.41,47,New York,0.27
+2024-10-03,Tablet,Electronics,247.44,4,725.16,50,Miami,0.27
+2024-10-28,Blender,Home & Kitchen,458.96,5,1701.65,44,Miami,0.26
+2025-03-08,Sneakers,Clothing,169.35,8,1007.68,21,Miami,0.26
+2024-07-22,Comics,Books,440.19,1,325.3,31,Miami,0.26
+2024-09-07,Laptop,Electronics,115.67,7,722.4,51,New York,0.11
+2024-04-09,T-shirt,Clothing,158.94,8,1101.44,47,New York,0.13
+2024-11-22,Blender,Home & Kitchen,443.14,6,2035.08,43,New York,0.23
+2024-07-25,Smartphone,Electronics,498.3,6,2869.8,63,Miami,0.04
+2024-08-21,Microwave,Home & Kitchen,367.46,1,264.58,38,Houston,0.28
+2024-09-02,Hat,Clothing,66.04,2,97.62,58,New York,0.26
+2024-11-21,Running Shoes,Sports,116.43,1,114.34,62,Los Angeles,0.02
+2024-04-30,Smartwatch,Electronics,159.21,5,589.8,27,Los Angeles,0.26
+2024-06-22,Toaster,Home & Kitchen,73.08,9,572.22,42,New York,0.13
+2024-08-20,Self-help Book,Books,99.31,8,578.48,46,New York,0.27
+2024-12-24,Laptop,Electronics,16.24,2,22.84,30,Chicago,0.3
+2025-02-11,Self-help Book,Books,277.27,7,1463.07,49,Chicago,0.25
+2024-04-21,Comics,Books,352.3,5,1289.55,18,Chicago,0.27
+2024-10-29,Yoga Mat,Sports,177.28,1,158.33,53,Chicago,0.11
+2024-10-04,Hat,Clothing,21.81,9,162.99,28,Chicago,0.17
+2024-09-08,Tablet,Electronics,193.24,7,1229.62,48,Miami,0.09
+2024-04-07,Basketball,Sports,431.55,3,1273.35,26,Miami,0.02
+2024-08-27,Biography,Books,475.33,9,4008.51,19,New York,0.06
+2024-05-30,Jeans,Clothing,411.32,3,914.88,44,Los Angeles,0.26
+2024-11-01,Jacket,Clothing,19.85,9,169.02,22,Los Angeles,0.05
+2024-07-18,Tennis Racket,Sports,78.7,4,289.4,38,Los Angeles,0.08
+2024-07-11,Self-help Book,Books,494.5,7,3075.73,31,Miami,0.11
+2024-12-26,Jacket,Clothing,347.79,5,1297.1,62,Los Angeles,0.25
+2024-03-28,Self-help Book,Books,305.51,8,2376.0,36,Houston,0.03
+2024-07-05,Tablet,Electronics,329.92,6,1700.34,61,Houston,0.14
+2024-05-14,Biography,Books,277.47,8,1701.2,28,New York,0.23
+2024-11-27,Novel,Books,57.53,9,438.57,62,Miami,0.15
+2024-08-27,Novel,Books,342.17,4,1078.04,61,Chicago,0.21
+2024-06-15,Vacuum Cleaner,Home & Kitchen,200.97,2,351.26,62,Houston,0.13
+2024-08-11,Coffee Maker,Home & Kitchen,355.41,5,1574.1,24,Houston,0.11
+2024-09-01,Self-help Book,Books,327.35,1,298.94,54,Chicago,0.09
+2024-06-19,Football,Sports,43.49,1,43.27,21,Chicago,0.01
+2024-09-25,Science Book,Books,301.56,9,2687.76,34,Chicago,0.01
+2024-05-16,Tennis Racket,Sports,145.08,8,1043.92,19,Los Angeles,0.1
+2024-10-07,Comics,Books,496.04,6,2400.6,21,New York,0.19
+2024-05-18,Comics,Books,349.89,1,284.41,57,Miami,0.19
+2024-06-29,Yoga Mat,Sports,336.8,5,1451.85,44,Miami,0.14
+2024-08-18,Toaster,Home & Kitchen,472.8,4,1848.88,37,Chicago,0.02
+2024-09-25,Smartphone,Electronics,402.65,5,1673.6,58,Chicago,0.17
+2024-07-27,Smartwatch,Electronics,16.21,7,83.51,50,New York,0.26
+2024-05-21,Microwave,Home & Kitchen,137.32,8,856.64,36,Houston,0.22
+2024-11-26,Sneakers,Clothing,149.57,2,222.18,54,Miami,0.26
+2024-05-28,Football,Sports,99.94,5,392.1,48,Miami,0.22
+2024-06-21,Novel,Books,84.76,9,748.35,49,Chicago,0.02
+2024-09-16,Football,Sports,260.79,1,259.94,55,Houston,0.0
+2024-08-17,Headphones,Electronics,380.0,9,2796.21,22,Miami,0.18
+2024-08-09,T-shirt,Clothing,396.43,4,1411.36,49,Chicago,0.11
+2024-08-14,Yoga Mat,Sports,280.23,5,1112.65,31,New York,0.21
+2024-05-14,Smartwatch,Electronics,201.91,7,1275.47,24,Los Angeles,0.1
+2025-02-26,Novel,Books,142.68,9,1239.3,45,Los Angeles,0.03
+2024-06-27,Sneakers,Clothing,106.31,9,862.56,27,Houston,0.1
+2024-08-04,Basketball,Sports,221.52,8,1718.56,33,Los Angeles,0.03
+2024-09-22,Laptop,Electronics,160.68,4,513.52,33,Houston,0.2
+2024-06-23,Running Shoes,Sports,401.32,7,2549.75,59,Miami,0.09
+2024-07-23,Tablet,Electronics,278.24,1,254.27,50,Miami,0.09
+2024-08-22,Football,Sports,308.94,2,518.04,22,New York,0.16
+2024-10-02,Novel,Books,292.85,4,861.64,43,New York,0.26
+2024-05-01,Football,Sports,410.71,9,3689.28,51,Miami,0.0
+2024-09-18,Science Book,Books,456.97,7,2970.73,63,Houston,0.07
+2024-11-19,Coffee Maker,Home & Kitchen,401.28,9,3594.24,53,Houston,0.0
+2024-09-06,Vacuum Cleaner,Home & Kitchen,211.95,8,1346.8,58,Houston,0.21
+2024-05-11,Biography,Books,34.17,6,202.32,48,Los Angeles,0.01
+2024-05-19,Smartphone,Electronics,444.9,1,403.49,21,Houston,0.09
+2024-06-28,Jacket,Clothing,65.62,8,388.88,61,Houston,0.26
+2025-03-05,Biography,Books,254.37,9,1815.84,59,Miami,0.21
+2024-11-16,Smartwatch,Electronics,260.12,1,211.25,40,Miami,0.19
+2024-07-23,Tablet,Electronics,148.17,5,710.05,22,New York,0.04
+2024-08-26,Science Book,Books,363.41,1,324.95,26,Los Angeles,0.11
+2024-05-18,Laptop,Electronics,10.51,8,83.84,28,Miami,0.0
+2024-11-30,Tennis Racket,Sports,23.12,2,41.48,53,New York,0.1
+2025-01-08,Smartphone,Electronics,252.28,5,977.3,64,Houston,0.23
+2025-03-19,Jeans,Clothing,43.4,6,202.44,29,Houston,0.22
+2024-09-22,Football,Sports,491.1,6,2422.14,25,Houston,0.18
+2025-03-05,Comics,Books,162.9,1,140.86,22,Miami,0.14
+2024-07-22,Comics,Books,210.08,7,1168.86,59,Miami,0.21
+2024-10-11,Comics,Books,166.42,5,656.35,42,Los Angeles,0.21
+2024-11-29,Toaster,Home & Kitchen,465.8,2,885.32,41,New York,0.05
+2024-07-14,Sneakers,Clothing,344.67,9,3013.2,41,Houston,0.03
+2024-05-26,Basketball,Sports,119.97,1,98.37,37,Houston,0.18
+2024-04-17,Comics,Books,296.5,7,1481.76,36,Chicago,0.29
+2024-10-15,Smartwatch,Electronics,443.68,1,423.63,42,Miami,0.05
+2024-05-09,T-shirt,Clothing,402.75,9,3200.94,60,Houston,0.12
+2024-04-19,Headphones,Electronics,111.18,7,661.15,41,Miami,0.15
+2024-08-09,Toaster,Home & Kitchen,385.23,8,2411.04,58,Chicago,0.22
+2025-02-11,Yoga Mat,Sports,165.82,7,825.16,39,New York,0.29
+2024-05-18,Novel,Books,446.64,1,381.25,48,Miami,0.15
+2024-09-04,Yoga Mat,Sports,352.87,4,1380.16,47,Houston,0.02
+2024-04-14,Tablet,Electronics,22.04,8,170.32,32,Miami,0.03
+2024-07-21,Biography,Books,109.46,4,345.88,31,Houston,0.21
+2024-06-24,Science Book,Books,199.97,8,1364.32,51,Chicago,0.15
+2024-10-13,Biography,Books,483.64,2,753.4,52,Miami,0.22
+2024-06-16,Jacket,Clothing,12.69,7,78.96,25,Chicago,0.11
+2024-03-23,Vacuum Cleaner,Home & Kitchen,154.07,2,235.78,29,Houston,0.23
+2024-06-27,Self-help Book,Books,373.38,9,2499.75,37,Miami,0.26
+2025-01-05,Yoga Mat,Sports,213.16,1,171.58,40,Houston,0.2
+2025-02-22,Biography,Books,377.49,3,856.59,47,Miami,0.24
+2024-12-16,Running Shoes,Sports,391.68,9,3110.49,45,Miami,0.12
+2024-05-09,Toaster,Home & Kitchen,436.96,2,868.54,62,Miami,0.01
+2024-09-24,Toaster,Home & Kitchen,186.93,3,493.77,60,Miami,0.12
+2024-04-03,Tennis Racket,Sports,267.72,2,467.12,52,New York,0.13
+2025-02-07,Microwave,Home & Kitchen,165.66,6,746.28,35,Houston,0.25
+2024-06-29,Toaster,Home & Kitchen,265.67,3,605.97,38,Miami,0.24
+2025-01-16,Sneakers,Clothing,96.37,6,505.68,60,Miami,0.13
+2024-12-05,Toaster,Home & Kitchen,355.18,4,1227.72,36,Miami,0.14
+2024-10-31,Jeans,Clothing,271.55,6,1348.44,42,Chicago,0.17
+2024-07-07,Headphones,Electronics,51.69,6,231.96,35,Chicago,0.25
+2025-01-15,Novel,Books,491.77,2,880.12,33,Houston,0.11
+2024-09-11,Tennis Racket,Sports,64.82,4,234.92,20,Los Angeles,0.09
+2025-02-27,Yoga Mat,Sports,40.13,9,290.52,53,Houston,0.2
+2024-10-10,Jacket,Clothing,425.26,2,662.1,64,New York,0.22
+2024-12-17,Blender,Home & Kitchen,17.36,4,61.04,62,New York,0.12
+2024-07-02,Science Book,Books,154.91,8,1220.24,39,New York,0.02
+2024-06-04,Basketball,Sports,208.67,9,1390.95,35,Chicago,0.26
+2024-12-17,Biography,Books,230.07,9,1557.54,52,Chicago,0.25
+2025-03-15,Sneakers,Clothing,225.62,8,1752.24,42,New York,0.03
+2024-06-17,Tablet,Electronics,210.55,9,1844.64,44,New York,0.03
+2024-03-26,Tennis Racket,Sports,127.78,6,579.54,57,Miami,0.24
+2024-07-19,Basketball,Sports,107.35,5,388.55,25,Miami,0.28
+2024-10-18,Running Shoes,Sports,474.43,8,3197.04,35,Los Angeles,0.16
+2024-08-23,Jeans,Clothing,475.76,8,2775.52,52,Chicago,0.27
+2025-01-20,Blender,Home & Kitchen,427.55,3,1149.36,23,Miami,0.1
+2024-11-27,Biography,Books,55.91,1,40.51,37,Miami,0.28
+2024-09-07,Running Shoes,Sports,87.34,2,138.68,29,Chicago,0.21
+2024-08-12,Comics,Books,67.52,4,249.08,37,Los Angeles,0.08
+2024-12-22,Novel,Books,410.23,1,333.06,21,Los Angeles,0.19
+2024-04-04,Coffee Maker,Home & Kitchen,470.7,1,368.47,25,Chicago,0.22
+2024-08-05,Comics,Books,23.45,2,34.34,25,Houston,0.27
+2024-12-17,Jacket,Clothing,260.79,8,1894.64,28,Houston,0.09
+2024-04-14,Jeans,Clothing,207.28,8,1535.6,47,Los Angeles,0.07
+2025-02-16,Running Shoes,Sports,133.89,3,292.59,48,Miami,0.27
+2024-08-13,Microwave,Home & Kitchen,408.9,5,1502.75,38,New York,0.26
+2024-12-29,Science Book,Books,144.12,6,729.84,44,Los Angeles,0.16
+2024-07-16,Basketball,Sports,386.76,1,299.32,32,Miami,0.23
+2024-04-28,Biography,Books,166.05,7,1090.32,61,Chicago,0.06
+2024-11-05,Running Shoes,Sports,175.9,3,391.71,49,Houston,0.26
+2024-10-09,Toaster,Home & Kitchen,415.65,9,2675.52,46,New York,0.28
+2024-05-01,Yoga Mat,Sports,286.69,4,904.8,19,Chicago,0.21
+2025-02-26,Self-help Book,Books,233.73,6,1073.34,41,Houston,0.23
+2024-09-14,Hat,Clothing,325.58,2,564.38,33,Houston,0.13
+2024-12-10,Comics,Books,24.37,9,182.97,23,Miami,0.17
+2025-01-23,Microwave,Home & Kitchen,130.26,9,937.89,33,Houston,0.2
+2024-10-18,Blender,Home & Kitchen,219.31,2,329.28,54,Miami,0.25
+2025-02-15,Biography,Books,445.95,9,3667.77,37,New York,0.09
+2024-09-30,Self-help Book,Books,494.81,2,869.26,42,Miami,0.12
+2024-09-19,Microwave,Home & Kitchen,384.56,3,957.78,27,Chicago,0.17
+2024-08-06,Football,Sports,349.37,3,981.99,64,Miami,0.06
+2024-08-05,Football,Sports,376.92,3,1010.04,27,Chicago,0.11
+2024-05-03,Jeans,Clothing,37.46,8,279.36,50,Chicago,0.07
+2024-05-10,Self-help Book,Books,65.98,1,46.51,34,Houston,0.3
+2025-02-25,T-shirt,Clothing,416.33,3,1165.38,18,Miami,0.07
+2025-02-21,Blender,Home & Kitchen,291.72,4,1005.28,30,Los Angeles,0.14
+2024-04-13,Microwave,Home & Kitchen,133.45,3,299.52,29,Los Angeles,0.25
+2025-02-09,Smartwatch,Electronics,390.81,5,1722.4,35,Chicago,0.12
+2025-01-11,Biography,Books,154.27,2,261.14,23,Los Angeles,0.15
+2024-12-03,Running Shoes,Sports,56.73,4,183.6,40,New York,0.19
+2024-05-31,Sneakers,Clothing,340.89,5,1416.15,28,Los Angeles,0.17
+2024-12-23,Tennis Racket,Sports,219.59,9,1407.42,36,Miami,0.29
+2024-09-09,Comics,Books,422.29,8,2890.72,30,Los Angeles,0.14
+2024-04-19,Tennis Racket,Sports,277.32,4,1039.16,52,Miami,0.06
+2024-11-26,T-shirt,Clothing,99.01,1,81.51,31,Chicago,0.18
+2024-09-21,Headphones,Electronics,385.61,9,3421.35,57,Houston,0.01
+2024-06-15,Sneakers,Clothing,403.75,9,3321.99,50,Chicago,0.09
+2025-02-12,Comics,Books,349.59,3,948.9,55,Miami,0.1
+2024-10-01,Vacuum Cleaner,Home & Kitchen,10.52,7,66.99,28,Los Angeles,0.09
+2024-10-20,T-shirt,Clothing,255.61,7,1338.12,46,Miami,0.25
+2024-12-14,Tablet,Electronics,239.25,3,512.25,58,Chicago,0.29
+2025-01-04,Vacuum Cleaner,Home & Kitchen,226.51,8,1767.84,53,Miami,0.02
+2024-05-24,Yoga Mat,Sports,76.68,7,409.22,62,New York,0.24
+2024-12-05,Jeans,Clothing,175.64,3,421.56,30,Chicago,0.2
+2024-11-14,Smartphone,Electronics,198.78,8,1488.0,27,Miami,0.06
+2024-08-10,Yoga Mat,Sports,409.4,7,2259.46,44,Miami,0.21
+2024-11-14,Comics,Books,292.57,5,1287.0,56,Chicago,0.12
+2024-06-22,Self-help Book,Books,79.01,5,356.1,24,Houston,0.1
+2025-01-21,Coffee Maker,Home & Kitchen,496.16,7,3437.35,63,Chicago,0.01
+2024-08-12,Biography,Books,373.34,8,2682.4,56,Los Angeles,0.1
+2024-10-10,Running Shoes,Sports,222.43,6,1151.7,38,Chicago,0.14
+2025-01-21,Science Book,Books,77.97,9,566.28,33,Houston,0.19
+2024-05-20,Tablet,Electronics,484.28,8,2773.68,18,Chicago,0.28
+2024-09-22,Vacuum Cleaner,Home & Kitchen,349.38,8,2255.2,29,Chicago,0.19
+2025-02-14,Football,Sports,232.45,4,651.2,41,Chicago,0.3
+2024-05-13,Smartwatch,Electronics,266.21,3,704.22,20,Chicago,0.12
+2024-05-28,Headphones,Electronics,451.63,6,2219.52,30,New York,0.18
+2024-11-28,Laptop,Electronics,292.09,3,844.08,42,New York,0.04
+2024-05-21,Vacuum Cleaner,Home & Kitchen,235.44,7,1538.81,18,Miami,0.07
+2025-03-08,T-shirt,Clothing,413.03,6,2475.84,39,Chicago,0.0
+2024-10-22,Sneakers,Clothing,206.45,4,684.44,64,New York,0.17
+2024-03-21,Smartwatch,Electronics,168.19,5,692.0,37,Chicago,0.18
+2024-03-29,Jacket,Clothing,215.04,8,1581.44,22,Los Angeles,0.08
+2025-03-11,Smartwatch,Electronics,110.58,7,587.44,42,Chicago,0.24
+2024-09-20,Biography,Books,129.95,9,968.67,20,Houston,0.17
+2025-03-13,T-shirt,Clothing,92.25,2,139.06,31,Los Angeles,0.25
+2024-03-29,Hat,Clothing,337.91,5,1379.15,54,Houston,0.18
+2024-07-06,Toaster,Home & Kitchen,482.69,4,1544.12,32,Chicago,0.2
+2024-10-08,Self-help Book,Books,285.92,4,1072.32,60,Los Angeles,0.06
+2024-08-14,Tablet,Electronics,257.76,3,640.08,29,Chicago,0.17
+2024-10-22,Vacuum Cleaner,Home & Kitchen,147.25,9,1054.8,37,Miami,0.2
+2024-06-14,Tennis Racket,Sports,146.37,5,541.35,33,Chicago,0.26
+2024-11-02,Basketball,Sports,183.54,2,360.28,52,Chicago,0.02
+2024-07-25,Smartwatch,Electronics,53.15,1,47.32,41,New York,0.11
+2024-12-04,T-shirt,Clothing,84.76,1,69.86,48,Miami,0.18
+2024-05-08,Blender,Home & Kitchen,457.68,8,3292.88,31,Los Angeles,0.1
+2024-05-07,Comics,Books,399.23,2,781.54,18,Chicago,0.02
+2025-02-23,Self-help Book,Books,270.1,9,1873.35,39,Houston,0.23
+2024-08-08,Smartwatch,Electronics,99.34,2,174.2,18,Los Angeles,0.12
+2025-03-18,Yoga Mat,Sports,105.25,4,318.36,56,New York,0.24
+2025-03-04,T-shirt,Clothing,215.15,6,1100.28,36,Miami,0.15
+2024-08-21,Self-help Book,Books,402.71,5,1502.5,43,New York,0.25
+2024-08-31,Toaster,Home & Kitchen,87.47,5,403.3,32,Chicago,0.08
+2025-03-08,Tennis Racket,Sports,225.98,8,1692.16,52,Los Angeles,0.06
+2024-12-10,T-shirt,Clothing,161.52,3,365.43,24,Chicago,0.25
+2024-07-08,Coffee Maker,Home & Kitchen,258.59,7,1562.68,24,Los Angeles,0.14
+2024-12-03,Science Book,Books,101.11,6,591.0,55,Los Angeles,0.03
+2024-11-06,Toaster,Home & Kitchen,205.68,3,463.89,46,Los Angeles,0.25
+2024-06-04,Laptop,Electronics,188.97,5,882.7,51,New York,0.07
+2024-08-03,Toaster,Home & Kitchen,438.42,6,2584.2,31,New York,0.02
+2024-08-02,Jacket,Clothing,146.08,2,284.4,51,Houston,0.03
+2024-12-09,Coffee Maker,Home & Kitchen,94.71,6,403.98,22,Los Angeles,0.29
+2024-11-27,Comics,Books,156.45,6,736.08,34,Houston,0.22
+2025-01-23,Headphones,Electronics,220.91,1,210.48,61,Miami,0.05
+2024-08-03,Yoga Mat,Sports,121.79,1,102.18,21,Chicago,0.16
+2025-01-29,Basketball,Sports,445.53,2,813.32,22,New York,0.09
+2024-11-24,Self-help Book,Books,101.05,8,768.56,25,Los Angeles,0.05
+2024-12-11,Biography,Books,384.41,2,591.62,64,Chicago,0.23
+2024-06-18,Blender,Home & Kitchen,18.91,8,144.96,41,Houston,0.04
+2025-03-13,Microwave,Home & Kitchen,375.49,5,1578.45,58,Miami,0.16
+2025-01-07,Tablet,Electronics,252.93,2,416.44,57,Chicago,0.18
+2024-03-22,Smartphone,Electronics,479.8,4,1464.72,41,Miami,0.24
+2024-11-02,Sneakers,Clothing,115.64,1,95.65,49,Houston,0.17
+2024-10-16,Headphones,Electronics,415.37,5,1613.05,58,New York,0.22
+2024-10-01,Headphones,Electronics,260.05,3,731.4,58,Los Angeles,0.06
+2024-12-19,Sneakers,Clothing,300.17,1,229.63,50,Houston,0.23
+2024-09-15,Comics,Books,377.69,4,1195.68,58,Miami,0.21
+2025-02-14,Jacket,Clothing,30.68,1,25.9,42,Los Angeles,0.16
+2025-02-10,T-shirt,Clothing,482.36,4,1412.92,32,Houston,0.27
+2024-08-15,Jeans,Clothing,337.98,1,330.77,41,Los Angeles,0.02
+2024-10-20,Blender,Home & Kitchen,476.4,2,873.16,54,Miami,0.08
+2024-08-17,Comics,Books,307.75,1,222.11,51,Miami,0.28
+2024-06-09,Hat,Clothing,114.57,7,633.85,19,New York,0.21
+2024-11-18,Vacuum Cleaner,Home & Kitchen,201.98,1,159.11,29,Los Angeles,0.21
+2024-10-01,Blender,Home & Kitchen,268.75,6,1346.4,55,Houston,0.17
+2024-07-07,Football,Sports,460.92,8,3481.28,58,Los Angeles,0.06
+2025-01-01,Jacket,Clothing,243.98,7,1362.55,25,Chicago,0.2
+2024-04-25,Biography,Books,313.5,7,2158.1,19,Miami,0.02
+2024-04-27,Novel,Books,179.18,4,698.48,44,Los Angeles,0.03
+2025-03-16,Jacket,Clothing,30.59,5,134.85,49,Miami,0.12
+2024-04-09,Jeans,Clothing,126.73,2,190.54,52,Miami,0.25
+2024-10-13,Microwave,Home & Kitchen,173.08,2,340.44,24,Chicago,0.02
+2024-03-30,Self-help Book,Books,276.7,3,666.96,25,New York,0.2
+2024-11-28,Hat,Clothing,478.1,4,1374.12,44,New York,0.28
+2024-09-01,Biography,Books,281.63,1,234.61,57,Miami,0.17
+2024-04-04,Jacket,Clothing,176.24,4,563.44,35,Miami,0.2
+2025-02-28,Laptop,Electronics,437.0,8,2695.36,64,Houston,0.23
+2024-12-23,Sneakers,Clothing,497.97,9,3471.75,23,Miami,0.23
+2024-12-23,Basketball,Sports,492.49,4,1496.28,43,New York,0.24
+2024-09-22,Football,Sports,170.58,7,1053.71,54,Houston,0.12
+2024-05-18,Biography,Books,178.82,7,952.84,61,New York,0.24
+2024-09-25,Vacuum Cleaner,Home & Kitchen,305.45,3,688.5,54,Miami,0.25
+2024-07-02,Headphones,Electronics,478.58,3,1278.75,62,Miami,0.11
+2024-10-30,Science Book,Books,206.9,7,1372.63,24,New York,0.05
+2025-02-23,Football,Sports,287.39,7,1644.44,40,Chicago,0.18
+2024-07-29,T-shirt,Clothing,257.7,9,2278.44,42,Houston,0.02
+2024-09-11,T-shirt,Clothing,212.3,1,161.76,49,Chicago,0.24
+2024-08-22,Biography,Books,36.91,9,302.4,29,New York,0.09
+2024-04-14,Blender,Home & Kitchen,255.21,7,1563.87,33,Los Angeles,0.12
+2025-01-10,Hat,Clothing,331.47,4,1116.12,25,New York,0.16
+2024-05-14,Tablet,Electronics,190.18,2,349.62,27,Miami,0.08
+2024-10-17,T-shirt,Clothing,271.8,5,1175.7,43,Los Angeles,0.13
+2024-11-27,Tennis Racket,Sports,75.13,6,336.9,24,Los Angeles,0.25
+2024-11-07,Self-help Book,Books,37.52,5,184.45,61,Houston,0.02
+2024-11-17,Yoga Mat,Sports,21.86,9,184.68,64,Chicago,0.06
+2024-08-26,Toaster,Home & Kitchen,473.64,4,1601.6,35,Houston,0.15
+2024-10-08,Self-help Book,Books,51.53,2,90.28,57,Chicago,0.12
+2024-10-28,Comics,Books,256.43,2,405.74,25,Chicago,0.21
+2024-07-11,Comics,Books,475.27,9,4043.79,20,New York,0.05
+2024-12-18,Novel,Books,354.81,3,898.5,63,Houston,0.16
+2024-11-13,Blender,Home & Kitchen,182.62,3,390.75,22,Chicago,0.29
+2025-03-11,T-shirt,Clothing,229.53,5,832.5,51,Houston,0.27
+2024-09-25,Science Book,Books,119.73,4,337.12,47,New York,0.3
+2024-03-31,Toaster,Home & Kitchen,92.64,3,224.49,37,Los Angeles,0.19
+2025-02-06,Biography,Books,42.76,3,126.42,60,Houston,0.01
+2024-11-26,Biography,Books,217.98,8,1381.92,59,New York,0.21
+2024-07-21,Comics,Books,48.07,8,307.92,54,Miami,0.2
+2024-08-24,Comics,Books,454.51,8,2836.56,37,Miami,0.22
+2024-11-27,Blender,Home & Kitchen,340.26,4,1007.76,24,Los Angeles,0.26
+2024-08-10,Coffee Maker,Home & Kitchen,173.16,7,883.96,37,Chicago,0.27
+2024-08-24,Vacuum Cleaner,Home & Kitchen,16.64,2,33.04,27,Miami,0.01
+2025-03-08,Yoga Mat,Sports,259.33,7,1780.17,40,Los Angeles,0.02
+2024-12-04,Sneakers,Clothing,178.08,7,1229.41,59,Miami,0.01
+2024-08-03,Novel,Books,410.75,3,1228.71,32,New York,0.0
+2024-11-04,Smartphone,Electronics,471.88,7,3106.88,62,Miami,0.06
+2024-05-10,Smartphone,Electronics,122.78,7,699.51,20,New York,0.19
+2024-10-31,Hat,Clothing,382.6,3,958.2,56,New York,0.17
+2024-10-25,Comics,Books,27.1,5,96.8,41,Miami,0.29
+2024-09-01,Smartphone,Electronics,248.76,9,2095.47,59,Miami,0.06
+2025-03-09,Biography,Books,338.88,4,989.84,42,Chicago,0.27
+2025-01-10,T-shirt,Clothing,448.93,9,3064.77,35,Chicago,0.24
+2024-09-02,Toaster,Home & Kitchen,173.04,2,243.34,24,Miami,0.3
+2024-06-29,Novel,Books,421.99,5,2029.05,53,Miami,0.04
+2024-05-14,Hat,Clothing,94.57,3,276.09,18,Miami,0.03
+2024-04-22,Running Shoes,Sports,126.95,1,95.76,38,Houston,0.25
+2024-05-18,Football,Sports,426.13,2,704.22,40,Los Angeles,0.17
+2024-10-19,Toaster,Home & Kitchen,433.91,4,1249.68,45,New York,0.28
+2025-02-21,Laptop,Electronics,205.21,6,868.2,62,Miami,0.29
+2024-05-23,Microwave,Home & Kitchen,281.37,5,1009.35,34,Chicago,0.28
+2024-11-19,T-shirt,Clothing,234.3,8,1728.16,48,New York,0.08
+2025-02-14,Science Book,Books,296.23,9,2484.27,57,Houston,0.07
+2024-09-22,Coffee Maker,Home & Kitchen,170.7,6,985.92,59,New York,0.04
+2024-07-12,Comics,Books,363.14,9,2989.26,62,Miami,0.09
+2024-12-22,Self-help Book,Books,242.6,2,410.88,18,Los Angeles,0.15
+2024-09-30,Hat,Clothing,97.71,7,647.08,30,Chicago,0.05
+2024-07-14,Yoga Mat,Sports,217.87,9,1634.67,59,New York,0.17
+2024-12-16,Microwave,Home & Kitchen,442.34,2,670.92,34,Los Angeles,0.24
+2024-08-03,Blender,Home & Kitchen,87.97,3,216.51,60,Los Angeles,0.18
+2025-01-08,Smartphone,Electronics,394.65,5,1402.75,23,New York,0.29
+2024-05-05,Running Shoes,Sports,485.82,4,1701.32,35,Miami,0.12
+2024-06-09,Tennis Racket,Sports,124.84,9,870.84,21,New York,0.22
+2024-07-18,Football,Sports,475.21,4,1387.32,52,Los Angeles,0.27
+2025-02-18,Comics,Books,329.84,9,2435.94,28,New York,0.18
+2024-11-23,Vacuum Cleaner,Home & Kitchen,10.81,3,29.97,54,Los Angeles,0.08
+2025-01-31,Toaster,Home & Kitchen,37.03,7,250.32,39,New York,0.03
+2024-06-14,Tablet,Electronics,34.31,4,134.56,25,Miami,0.02
+2024-06-06,Jacket,Clothing,352.67,7,1826.72,58,Chicago,0.26
+2024-09-03,Hat,Clothing,320.4,4,945.72,32,Houston,0.26
+2024-12-07,Novel,Books,355.42,2,554.22,40,Houston,0.22
+2024-06-13,Tablet,Electronics,441.61,2,625.6,26,Chicago,0.29
+2024-05-16,Yoga Mat,Sports,382.5,4,1501.88,60,Chicago,0.02
+2024-05-18,Football,Sports,487.55,9,3520.71,23,Houston,0.2
+2024-05-15,Jeans,Clothing,156.31,2,290.66,37,Los Angeles,0.07
+2024-03-26,Tablet,Electronics,431.31,3,960.57,39,Chicago,0.26
+2024-12-08,Running Shoes,Sports,109.1,5,486.05,57,Chicago,0.11
+2024-11-17,Basketball,Sports,419.51,6,2028.72,25,Chicago,0.19
+2024-07-04,Coffee Maker,Home & Kitchen,248.66,6,1486.2,38,Houston,0.0
+2024-11-29,Novel,Books,258.88,3,752.22,30,Los Angeles,0.03
+2024-12-07,Tablet,Electronics,295.47,7,1847.79,49,New York,0.11
+2025-01-19,Smartphone,Electronics,293.78,2,516.62,63,New York,0.12
+2024-12-28,Self-help Book,Books,14.5,5,53.05,43,New York,0.27
+2025-01-26,Smartphone,Electronics,12.25,5,54.4,29,Chicago,0.11
+2025-02-25,Microwave,Home & Kitchen,361.38,2,571.14,33,Los Angeles,0.21
+2024-08-18,Hat,Clothing,401.01,7,2758.77,64,Los Angeles,0.02
+2024-11-30,Biography,Books,85.54,9,623.07,51,Houston,0.19
+2024-04-01,Coffee Maker,Home & Kitchen,29.63,3,84.21,58,Miami,0.05
+2024-11-06,Sneakers,Clothing,67.02,2,116.36,47,Miami,0.13
+2024-06-18,Science Book,Books,261.12,1,236.34,58,New York,0.09
+2024-08-28,Running Shoes,Sports,314.92,1,267.98,64,Miami,0.15
+2024-07-24,Coffee Maker,Home & Kitchen,146.25,4,418.32,61,New York,0.28
+2024-12-06,Running Shoes,Sports,49.3,7,301.42,28,Houston,0.13
+2024-07-01,Comics,Books,302.73,3,769.86,20,Chicago,0.15
+2024-07-11,Smartwatch,Electronics,485.03,5,1917.85,43,Houston,0.21
+2025-03-11,Jacket,Clothing,410.48,9,3018.33,45,New York,0.18
+2024-04-04,Novel,Books,204.38,4,740.08,51,Miami,0.09
+2024-08-30,Headphones,Electronics,168.71,1,144.75,55,Los Angeles,0.14
+2025-02-09,Basketball,Sports,307.72,5,1286.75,42,Miami,0.16
+2024-11-12,Basketball,Sports,418.21,5,1874.0,47,Houston,0.1
+2024-06-06,Smartwatch,Electronics,491.25,4,1752.88,18,Miami,0.11
+2025-01-13,Headphones,Electronics,54.73,8,360.96,63,Los Angeles,0.18
+2024-12-18,Science Book,Books,499.63,7,3316.32,38,New York,0.05
+2024-12-24,Self-help Book,Books,151.45,3,420.24,57,Houston,0.08
+2024-10-15,Coffee Maker,Home & Kitchen,105.2,6,525.66,63,Los Angeles,0.17
+2024-04-03,Football,Sports,477.5,2,771.5,22,Chicago,0.19
+2025-02-08,Toaster,Home & Kitchen,242.83,2,399.22,27,Houston,0.18
+2024-04-26,Yoga Mat,Sports,351.89,2,618.72,64,Chicago,0.12
+2025-03-15,Toaster,Home & Kitchen,214.28,9,1485.9,43,Los Angeles,0.23
+2024-10-05,T-shirt,Clothing,233.3,8,1584.24,58,Houston,0.15
+2024-06-17,Sneakers,Clothing,312.41,8,2253.84,49,New York,0.1
+2025-02-25,Blender,Home & Kitchen,72.94,2,104.28,29,Chicago,0.29
+2024-06-09,Blender,Home & Kitchen,485.99,9,4372.74,60,New York,0.0
+2024-09-15,Smartwatch,Electronics,459.47,4,1460.68,24,Los Angeles,0.21
+2025-01-15,Self-help Book,Books,137.3,6,581.4,44,Miami,0.29
+2024-07-27,Running Shoes,Sports,194.77,9,1481.67,21,Miami,0.15
+2024-11-21,Novel,Books,181.07,2,327.88,48,Houston,0.09
+2024-05-11,Self-help Book,Books,249.18,9,1879.2,46,Miami,0.16
+2024-11-17,Running Shoes,Sports,458.26,2,728.6,30,New York,0.21
+2024-07-14,T-shirt,Clothing,451.43,3,974.61,22,New York,0.28
+2025-01-21,Yoga Mat,Sports,24.0,4,90.32,47,Miami,0.06
+2024-09-20,Laptop,Electronics,386.64,3,865.95,62,Houston,0.25
+2024-09-16,Science Book,Books,316.88,9,2826.09,43,Miami,0.01
+2024-11-04,Coffee Maker,Home & Kitchen,162.74,8,1044.8,59,Miami,0.2
+2025-02-01,Microwave,Home & Kitchen,421.45,3,1186.71,50,Los Angeles,0.06
+2024-06-08,Tennis Racket,Sports,254.48,5,1198.4,64,New York,0.06
+2024-09-12,Coffee Maker,Home & Kitchen,127.08,7,841.12,31,Miami,0.05
+2024-10-15,Headphones,Electronics,468.01,3,1364.97,51,Miami,0.03
+2024-07-22,Comics,Books,480.59,3,1383.27,44,Los Angeles,0.04
+2025-01-28,Coffee Maker,Home & Kitchen,12.87,5,45.4,38,Chicago,0.29
+2024-08-22,Basketball,Sports,254.87,3,693.33,58,Miami,0.09
+2024-07-28,Self-help Book,Books,430.6,4,1566.24,40,Chicago,0.09
+2024-04-27,Smartphone,Electronics,417.39,3,1064.55,20,Los Angeles,0.15
+2024-08-22,Running Shoes,Sports,371.59,8,2304.88,33,Los Angeles,0.22
+2025-01-01,Smartphone,Electronics,245.43,5,1030.35,54,Miami,0.16
+2025-03-11,Toaster,Home & Kitchen,24.41,7,122.78,48,Chicago,0.28
+2024-09-11,Yoga Mat,Sports,110.01,5,468.5,39,New York,0.15
+2024-06-15,Blender,Home & Kitchen,483.85,3,1068.75,50,Los Angeles,0.26
+2025-01-26,Smartwatch,Electronics,438.97,3,1118.43,23,Houston,0.15
+2024-09-26,Microwave,Home & Kitchen,212.04,7,1239.14,51,Miami,0.17
+2024-03-30,Novel,Books,154.23,6,820.14,25,New York,0.11
+2024-05-06,Hat,Clothing,185.54,6,884.1,38,Chicago,0.21
+2024-06-16,Blender,Home & Kitchen,164.7,5,777.2,50,New York,0.06
+2024-07-17,Self-help Book,Books,35.11,6,180.36,37,Miami,0.14
+2024-05-06,Toaster,Home & Kitchen,194.87,3,584.19,31,Los Angeles,0.0
+2024-06-17,Sneakers,Clothing,50.11,6,214.98,62,Chicago,0.28
+2024-10-01,Self-help Book,Books,210.66,2,406.2,64,New York,0.04
+2024-08-03,Smartwatch,Electronics,383.27,3,966.54,49,Miami,0.16
+2025-02-10,Vacuum Cleaner,Home & Kitchen,313.83,7,1914.08,57,New York,0.13
+2024-12-07,Smartwatch,Electronics,255.11,1,213.56,60,Houston,0.16
+2024-05-16,Vacuum Cleaner,Home & Kitchen,60.45,9,431.19,40,Houston,0.21
+2024-03-25,Novel,Books,142.51,1,122.73,47,Houston,0.14
+2024-12-10,Science Book,Books,160.02,8,1236.32,34,Chicago,0.03
+2024-05-23,Smartwatch,Electronics,325.64,2,561.14,32,Los Angeles,0.14
+2025-02-24,Smartwatch,Electronics,62.78,2,110.24,62,Chicago,0.12
+2024-04-25,Running Shoes,Sports,403.92,4,1447.12,46,New York,0.1
+2025-01-23,Novel,Books,425.31,1,392.02,18,Los Angeles,0.08
+2024-04-03,Sneakers,Clothing,234.72,3,630.81,46,Chicago,0.1
+2024-11-27,Novel,Books,228.28,6,1364.46,22,New York,0.0
+2024-08-22,Smartwatch,Electronics,234.1,2,348.14,41,Houston,0.26
+2024-07-17,Basketball,Sports,389.73,3,1060.44,50,Houston,0.09
+2024-05-28,Jeans,Clothing,124.38,2,248.1,63,Miami,0.0
+2024-07-11,Vacuum Cleaner,Home & Kitchen,347.71,4,1182.32,54,Houston,0.15
+2024-08-31,T-shirt,Clothing,418.29,2,808.34,36,Miami,0.03
+2024-05-10,Sneakers,Clothing,376.25,3,860.88,40,Chicago,0.24
+2024-08-16,Running Shoes,Sports,194.1,8,1354.32,43,Chicago,0.13
+2024-11-21,Toaster,Home & Kitchen,461.54,8,2762.88,61,Miami,0.25
+2024-07-16,Microwave,Home & Kitchen,102.08,5,444.0,40,Houston,0.13
+2025-02-13,Hat,Clothing,480.96,3,1278.93,59,Chicago,0.11
+2024-12-07,Vacuum Cleaner,Home & Kitchen,123.61,9,1037.79,53,Miami,0.07
+2024-06-01,Tennis Racket,Sports,333.6,1,329.25,40,Los Angeles,0.01
+2024-09-03,Vacuum Cleaner,Home & Kitchen,270.26,4,779.72,55,Los Angeles,0.28
+2024-12-03,Coffee Maker,Home & Kitchen,416.33,6,2233.44,46,New York,0.11
+2024-08-31,Microwave,Home & Kitchen,235.85,8,1444.48,24,New York,0.23
+2025-01-28,Toaster,Home & Kitchen,326.74,7,1648.85,43,Miami,0.28
+2024-06-13,Tennis Racket,Sports,94.17,2,177.88,27,Houston,0.06
+2024-05-01,Headphones,Electronics,484.61,8,3690.56,37,New York,0.05
+2024-03-26,Sneakers,Clothing,427.56,9,3820.05,51,Miami,0.01
+2024-07-17,Headphones,Electronics,310.41,5,1399.05,63,Miami,0.1
+2024-05-27,Self-help Book,Books,179.34,4,517.64,61,New York,0.28
+2025-03-19,Hat,Clothing,200.8,1,164.61,54,Los Angeles,0.18
+2024-07-28,Biography,Books,63.16,2,114.68,48,Houston,0.09
+2024-07-17,Hat,Clothing,194.67,4,689.48,29,Miami,0.11
+2024-05-23,Football,Sports,416.06,4,1328.08,32,New York,0.2
+2024-11-29,Sneakers,Clothing,485.36,5,1700.2,40,Chicago,0.3
+2024-09-25,Jeans,Clothing,407.36,3,1190.25,50,Miami,0.03
+2024-11-16,Microwave,Home & Kitchen,45.57,4,152.72,19,Los Angeles,0.16
+2024-09-22,T-shirt,Clothing,334.97,4,993.44,52,Houston,0.26
+2024-06-06,Novel,Books,318.11,9,2725.2,27,Chicago,0.05
+2024-03-24,Blender,Home & Kitchen,193.77,5,951.8,56,Los Angeles,0.02
+2024-07-24,Running Shoes,Sports,211.2,5,842.5,45,Los Angeles,0.2
+2024-07-23,Laptop,Electronics,197.61,2,392.98,51,Chicago,0.01
+2024-05-30,Laptop,Electronics,101.59,7,540.4,44,Miami,0.24
+2024-07-20,Hat,Clothing,265.66,5,1096.1,42,Los Angeles,0.17
+2024-11-16,Microwave,Home & Kitchen,321.05,4,1089.52,53,Los Angeles,0.15
+2024-06-07,Laptop,Electronics,338.52,5,1643.95,58,Houston,0.03
+2024-08-07,Headphones,Electronics,350.17,7,1864.1,19,Miami,0.24
+2024-05-03,Tablet,Electronics,40.84,2,76.96,29,Houston,0.06
+2025-01-31,Blender,Home & Kitchen,301.3,3,720.75,63,New York,0.2
+2024-11-14,Hat,Clothing,456.1,5,2205.1,28,New York,0.03
+2025-03-05,Running Shoes,Sports,352.04,3,915.78,37,New York,0.13
+2025-03-09,Running Shoes,Sports,184.95,1,143.66,55,Houston,0.22
+2024-03-26,Running Shoes,Sports,187.09,9,1452.06,62,Miami,0.14
+2024-08-02,Tennis Racket,Sports,62.68,9,490.23,50,Houston,0.13
+2024-09-11,Tablet,Electronics,473.21,9,3175.56,60,Miami,0.25
+2024-10-19,Science Book,Books,116.65,6,497.04,22,Los Angeles,0.29
+2024-12-11,Microwave,Home & Kitchen,413.06,2,761.08,54,New York,0.08
+2024-05-15,Microwave,Home & Kitchen,201.0,3,578.91,21,New York,0.04
+2024-05-07,Running Shoes,Sports,209.04,3,442.14,25,Houston,0.29
+2024-06-05,Vacuum Cleaner,Home & Kitchen,62.64,4,196.24,48,Houston,0.22
+2024-06-24,T-shirt,Clothing,311.89,4,1215.0,48,Miami,0.03
+2024-09-09,Blender,Home & Kitchen,469.82,3,1321.08,54,Houston,0.06
+2025-01-09,Biography,Books,201.51,1,173.29,42,Los Angeles,0.14
+2025-02-23,Running Shoes,Sports,346.69,7,1816.36,36,Los Angeles,0.25
+2024-09-27,Smartphone,Electronics,331.82,7,1733.55,55,Chicago,0.25
+2024-08-13,Vacuum Cleaner,Home & Kitchen,19.03,7,129.92,48,Chicago,0.03
+2025-03-15,Comics,Books,343.38,5,1492.75,30,Los Angeles,0.13
+2024-04-25,Laptop,Electronics,492.96,4,1839.6,33,Chicago,0.07
+2024-08-12,Jeans,Clothing,331.54,2,568.38,62,Miami,0.14
