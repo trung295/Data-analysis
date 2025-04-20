@@ -1,0 +1,701 @@
+{
+   "type": "FeatureCollection",
+   "metadata": {
+      "generated": 1745119051000,
+      "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson",
+      "title": "USGS Significant Earthquakes, Past Month",
+      "status": 200,
+      "api": "1.14.1",
+      "count": 17
+   },
+   "features": [
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 4.3,
+            "place": "20 km W of Beluga, Alaska",
+            "time": 1745047135928,
+            "updated": 1745118038886,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02550duu6u",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02550duu6u.geojson",
+            "felt": 1411,
+            "cdi": 3.8,
+            "mmi": 3.527,
+            "alert": "green",
+            "status": "reviewed",
+            "tsunami": 1,
+            "sig": 664,
+            "net": "ak",
+            "code": "02550duu6u",
+            "ids": ",ak02550duu6u,at00suyezi,us6000q76j,",
+            "sources": ",ak,at,us,",
+            "types": ",dyfi,impact-link,losspager,origin,phase-data,shakemap,",
+            "nst": null,
+            "dmin": null,
+            "rms": 0.57,
+            "gap": null,
+            "magType": "ml",
+            "type": "earthquake",
+            "title": "M 4.3 - 20 km W of Beluga, Alaska"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -151.4679,
+               61.1688,
+               83.3
+            ]
+         },
+         "id": "ak02550duu6u"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 6.6,
+            "place": "southeast Indian Ridge",
+            "time": 1744767779982,
+            "updated": 1744855593831,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000q6cs",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000q6cs.geojson",
+            "felt": null,
+            "cdi": null,
+            "mmi": 0,
+            "alert": "green",
+            "status": "reviewed",
+            "tsunami": 0,
+            "sig": 670,
+            "net": "us",
+            "code": "6000q6cs",
+            "ids": ",us6000q6cs,",
+            "sources": ",us,",
+            "types": ",losspager,moment-tensor,origin,phase-data,shakemap,",
+            "nst": 61,
+            "dmin": 19.334,
+            "rms": 0.65,
+            "gap": 49,
+            "magType": "mww",
+            "type": "earthquake",
+            "title": "M 6.6 - southeast Indian Ridge"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               99.7581,
+               -47.8431,
+               10
+            ]
+         },
+         "id": "us6000q6cs"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 3.95,
+            "place": "4 km SSE of Julian, CA",
+            "time": 1744655022060,
+            "updated": 1745022381941,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40926623",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40926623.geojson",
+            "felt": 844,
+            "cdi": 5,
+            "mmi": 3.821,
+            "alert": null,
+            "status": "reviewed",
+            "tsunami": 0,
+            "sig": 662,
+            "net": "ci",
+            "code": "40926623",
+            "ids": ",ci40926623,us6000q60f,",
+            "sources": ",ci,us,",
+            "types": ",dyfi,focal-mechanism,nearby-cities,origin,phase-data,scitech-link,shakemap,",
+            "nst": 108,
+            "dmin": 0.04062,
+            "rms": 0.22,
+            "gap": 20,
+            "magType": "ml",
+            "type": "earthquake",
+            "title": "M 4.0 - 4 km SSE of Julian, CA"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -116.5921667,
+               33.0405,
+               12.57
+            ]
+         },
+         "id": "ci40926623"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 5.21,
+            "place": "5 km S of Julian, CA",
+            "time": 1744650508110,
+            "updated": 1745112139129,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40925991",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40925991.geojson",
+            "felt": 42540,
+            "cdi": 6.1,
+            "mmi": 6.395,
+            "alert": "green",
+            "status": "reviewed",
+            "tsunami": 1,
+            "sig": 1028,
+            "net": "ci",
+            "code": "40925991",
+            "ids": ",ew1744650510,ci40925991,us6000q5zu,at00supwy4,",
+            "sources": ",ew,ci,us,at,",
+            "types": ",dyfi,focal-mechanism,ground-failure,impact-link,losspager,moment-tensor,nearby-cities,oaf,origin,phase-data,scitech-link,shake-alert,shakemap,",
+            "nst": 119,
+            "dmin": 0.04508,
+            "rms": 0.21,
+            "gap": 20,
+            "magType": "mw",
+            "type": "earthquake",
+            "title": "M 5.2 - 5 km S of Julian, CA"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -116.5948333,
+               33.0358333,
+               14.29
+            ]
+         },
+         "id": "ci40925991"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 6.5,
+            "place": "south of the Fiji Islands",
+            "time": 1744574602700,
+            "updated": 1744662966496,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000q5tp",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000q5tp.geojson",
+            "felt": null,
+            "cdi": null,
+            "mmi": 3.075,
+            "alert": "green",
+            "status": "reviewed",
+            "tsunami": 1,
+            "sig": 650,
+            "net": "us",
+            "code": "6000q5tp",
+            "ids": ",at00suoad0,us6000q5tp,pt25103001,",
+            "sources": ",at,us,pt,",
+            "types": ",associate,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+            "nst": 98,
+            "dmin": 3.222,
+            "rms": 0.95,
+            "gap": 27,
+            "magType": "mww",
+            "type": "earthquake",
+            "title": "M 6.5 - south of the Fiji Islands"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -178.3209,
+               -26.0294,
+               271
+            ]
+         },
+         "id": "us6000q5tp"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 5.8,
+            "place": "36 km E of Rasht, Tajikistan",
+            "time": 1744518241135,
+            "updated": 1744760350700,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000q5q8",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000q5q8.geojson",
+            "felt": 31,
+            "cdi": 7.3,
+            "mmi": 7.952,
+            "alert": "yellow",
+            "status": "reviewed",
+            "tsunami": 0,
+            "sig": 673,
+            "net": "us",
+            "code": "6000q5q8",
+            "ids": ",us6000q5q8,",
+            "sources": ",us,",
+            "types": ",dyfi,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+            "nst": 122,
+            "dmin": 0.928,
+            "rms": 0.79,
+            "gap": 24,
+            "magType": "mww",
+            "type": "earthquake",
+            "title": "M 5.8 - 36 km E of Rasht, Tajikistan"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               70.7895,
+               38.98,
+               8
+            ]
+         },
+         "id": "us6000q5q8"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 5.5,
+            "place": "34 km NNE of Meiktila, Burma (Myanmar)",
+            "time": 1744511097287,
+            "updated": 1744759815214,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000q5ps",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000q5ps.geojson",
+            "felt": 28,
+            "cdi": 8.3,
+            "mmi": 8.086,
+            "alert": "orange",
+            "status": "reviewed",
+            "tsunami": 0,
+            "sig": 1023,
+            "net": "us",
+            "code": "6000q5ps",
+            "ids": ",us6000q5ps,",
+            "sources": ",us,",
+            "types": ",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+            "nst": 93,
+            "dmin": 1.018,
+            "rms": 0.6,
+            "gap": 52,
+            "magType": "mb",
+            "type": "earthquake",
+            "title": "M 5.5 - 34 km NNE of Meiktila, Burma (Myanmar)"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               96.0055,
+               21.1538,
+               7.673
+            ]
+         },
+         "id": "us6000q5ps"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 6.9,
+            "place": "181 km ESE of Kimbe, Papua New Guinea",
+            "time": 1743797078266,
+            "updated": 1744140472892,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000q41n",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000q41n.geojson",
+            "felt": 13,
+            "cdi": 5.3,
+            "mmi": 5.983,
+            "alert": "green",
+            "status": "reviewed",
+            "tsunami": 1,
+            "sig": 739,
+            "net": "us",
+            "code": "6000q41n",
+            "ids": ",at00su7mhf,us6000q41n,pt25094051,",
+            "sources": ",at,us,pt,",
+            "types": ",associate,dyfi,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+            "nst": 324,
+            "dmin": 2.187,
+            "rms": 0.78,
+            "gap": 11,
+            "magType": "mww",
+            "type": "earthquake",
+            "title": "M 6.9 - 181 km ESE of Kimbe, Papua New Guinea"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               151.5922,
+               -6.3171,
+               10
+            ]
+         },
+         "id": "us6000q41n"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 6.9,
+            "place": "Reykjanes Ridge",
+            "time": 1743689369757,
+            "updated": 1743777280610,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000q3nw",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000q3nw.geojson",
+            "felt": null,
+            "cdi": null,
+            "mmi": 0,
+            "alert": "green",
+            "status": "reviewed",
+            "tsunami": 1,
+            "sig": 732,
+            "net": "us",
+            "code": "6000q3nw",
+            "ids": ",us6000q3nw,at00su5bbw,pt25093000,",
+            "sources": ",us,at,pt,",
+            "types": ",impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+            "nst": 158,
+            "dmin": 11.342,
+            "rms": 0.61,
+            "gap": 21,
+            "magType": "mww",
+            "type": "earthquake",
+            "title": "M 6.9 - Reykjanes Ridge"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -32.1106,
+               52.4601,
+               10
+            ]
+         },
+         "id": "us6000q3nw"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 6.2,
+            "place": "54 km ENE of Nishinoomote, Japan",
+            "time": 1743602637428,
+            "updated": 1745016256465,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ppfy",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000ppfy.geojson",
+            "felt": 13,
+            "cdi": 6.4,
+            "mmi": 4.974,
+            "alert": "green",
+            "status": "reviewed",
+            "tsunami": 0,
+            "sig": 600,
+            "net": "us",
+            "code": "7000ppfy",
+            "ids": ",us7000ppfy,",
+            "sources": ",us,",
+            "types": ",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+            "nst": 177,
+            "dmin": 1.009,
+            "rms": 0.7,
+            "gap": 65,
+            "magType": "mww",
+            "type": "earthquake",
+            "title": "M 6.2 - 54 km ENE of Nishinoomote, Japan"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               131.4725,
+               31.0017,
+               25.989
+            ]
+         },
+         "id": "us7000ppfy"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 6.3,
+            "place": "Pacific-Antarctic Ridge",
+            "time": 1743553762266,
+            "updated": 1744594133954,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ppd9",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000ppd9.geojson",
+            "felt": 1,
+            "cdi": 0,
+            "mmi": 0,
+            "alert": "green",
+            "status": "reviewed",
+            "tsunami": 0,
+            "sig": 611,
+            "net": "us",
+            "code": "7000ppd9",
+            "ids": ",us7000ppd9,",
+            "sources": ",us,",
+            "types": ",dyfi,losspager,moment-tensor,origin,phase-data,shakemap,",
+            "nst": 98,
+            "dmin": 25.295,
+            "rms": 0.74,
+            "gap": 55,
+            "magType": "mww",
+            "type": "earthquake",
+            "title": "M 6.3 - Pacific-Antarctic Ridge"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -142.2791,
+               -57.0099,
+               10
+            ]
+         },
+         "id": "us7000ppd9"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 7,
+            "place": "73 km SE of Pangai, Tonga",
+            "time": 1743337127830,
+            "updated": 1743425004152,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pntq",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pntq.geojson",
+            "felt": 27,
+            "cdi": 7.1,
+            "mmi": 5.889,
+            "alert": "green",
+            "status": "reviewed",
+            "tsunami": 1,
+            "sig": 773,
+            "net": "us",
+            "code": "7000pntq",
+            "ids": ",us7000pntq,at00stxrjc,pt25089000,",
+            "sources": ",us,at,pt,",
+            "types": ",dyfi,finite-fault,general-text,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+            "nst": 63,
+            "dmin": 3.951,
+            "rms": 0.87,
+            "gap": 76,
+            "magType": "mww",
+            "type": "earthquake",
+            "title": "M 7.0 - 73 km SE of Pangai, Tonga"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -173.9074,
+               -20.3294,
+               29
+            ]
+         },
+         "id": "us7000pntq"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 6.6,
+            "place": "central Mid-Atlantic Ridge",
+            "time": 1743182247821,
+            "updated": 1743708138077,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pnf2",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pnf2.geojson",
+            "felt": 2,
+            "cdi": 1,
+            "mmi": 5.555,
+            "alert": "green",
+            "status": "reviewed",
+            "tsunami": 0,
+            "sig": 670,
+            "net": "us",
+            "code": "7000pnf2",
+            "ids": ",us7000pnf2,",
+            "sources": ",us,",
+            "types": ",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+            "nst": 322,
+            "dmin": 8.969,
+            "rms": 0.44,
+            "gap": 24,
+            "magType": "mww",
+            "type": "earthquake",
+            "title": "M 6.6 - central Mid-Atlantic Ridge"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -29.76,
+               0.7627,
+               12.039
+            ]
+         },
+         "id": "us7000pnf2"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 6.7,
+            "place": "Burma (Myanmar)",
+            "time": 1743143524777,
+            "updated": 1744953561430,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pn9z",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pn9z.geojson",
+            "felt": 110,
+            "cdi": 9.1,
+            "mmi": 8.294,
+            "alert": "red",
+            "status": "reviewed",
+            "tsunami": 0,
+            "sig": 2100,
+            "net": "us",
+            "code": "7000pn9z",
+            "ids": ",us7000pn9z,",
+            "sources": ",us,",
+            "types": ",dyfi,earthquake-name,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+            "nst": 106,
+            "dmin": 4.266,
+            "rms": 0.75,
+            "gap": 41,
+            "magType": "mww",
+            "type": "earthquake",
+            "title": "M 6.7 - Burma (Myanmar)"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               95.969,
+               21.6975,
+               10
+            ]
+         },
+         "id": "us7000pn9z"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 7.7,
+            "place": "2025 Mandalay, Burma (Myanmar) Earthquake",
+            "time": 1743142852709,
+            "updated": 1745073559852,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pn9s",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pn9s.geojson",
+            "felt": 2446,
+            "cdi": 9.1,
+            "mmi": 9.882,
+            "alert": "red",
+            "status": "reviewed",
+            "tsunami": 0,
+            "sig": 2910,
+            "net": "us",
+            "code": "7000pn9s",
+            "ids": ",us7000pn9s,",
+            "sources": ",us,",
+            "types": ",dyfi,earthquake-name,finite-fault,general-text,ground-failure,impact-text,losspager,moment-tensor,oaf,origin,phase-data,shakemap,",
+            "nst": 246,
+            "dmin": 3.483,
+            "rms": 0.89,
+            "gap": 24,
+            "magType": "mww",
+            "type": "earthquake",
+            "title": "M 7.7 - 2025 Mandalay, Burma (Myanmar) Earthquake"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               95.9247,
+               22.0014,
+               10
+            ]
+         },
+         "id": "us7000pn9s"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 6.7,
+            "place": "170 km WSW of Riverton, New Zealand",
+            "time": 1742866991796,
+            "updated": 1744064444166,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pmem",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pmem.geojson",
+            "felt": 71,
+            "cdi": 5.2,
+            "mmi": 4.992,
+            "alert": "green",
+            "status": "reviewed",
+            "tsunami": 1,
+            "sig": 728,
+            "net": "us",
+            "code": "7000pmem",
+            "ids": ",at00stnos1,pt25084000,us7000pmem,",
+            "sources": ",at,pt,us,",
+            "types": ",dyfi,ground-failure,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+            "nst": 250,
+            "dmin": 0.799,
+            "rms": 0.54,
+            "gap": 31,
+            "magType": "mww",
+            "type": "earthquake",
+            "title": "M 6.7 - 170 km WSW of Riverton, New Zealand"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               165.8632,
+               -46.7305,
+               21
+            ]
+         },
+         "id": "us7000pmem"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "mag": 6.2,
+            "place": "123 km SSE of Burica, Panama",
+            "time": 1742568651530,
+            "updated": 1744997878229,
+            "tz": null,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pllt",
+            "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000pllt.geojson",
+            "felt": 82,
+            "cdi": 6.1,
+            "mmi": 4.753,
+            "alert": "green",
+            "status": "reviewed",
+            "tsunami": 1,
+            "sig": 641,
+            "net": "us",
+            "code": "7000pllt",
+            "ids": ",us7000pllt,at00sthakw,pt25080000,",
+            "sources": ",us,at,pt,",
+            "types": ",associate,dyfi,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+            "nst": 264,
+            "dmin": 2.38,
+            "rms": 0.9,
+            "gap": 92,
+            "magType": "mww",
+            "type": "earthquake",
+            "title": "M 6.2 - 123 km SSE of Burica, Panama"
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -82.4062,
+               7.0177,
+               10
+            ]
+         },
+         "id": "us7000pllt"
+      }
+   ],
+   "bbox": [
+      -178.3209,
+      -57.0099,
+      7.673,
+      165.8632,
+      61.1688,
+      271
+   ]
+}
